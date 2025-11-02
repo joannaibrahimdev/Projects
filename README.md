@@ -1,2 +1,1 @@
-# Projects
-Repository for practicing Git and GitHub commands
+This is my project description
